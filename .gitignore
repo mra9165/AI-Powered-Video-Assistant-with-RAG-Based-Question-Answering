@@ -1,0 +1,7 @@
+cookies.txt
+vector_db/
+venv/
+.venv/
+.env
+.env.*
+__pycache__/
